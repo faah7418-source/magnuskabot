@@ -1,0 +1,4 @@
+[build]
+
+[build.variables]
+RAILPACK_PACKAGES = "rust"
